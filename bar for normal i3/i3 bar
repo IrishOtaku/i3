@@ -1,0 +1,7 @@
+bar {
+        status_command i3status
+}
+
+
+
+#add these lines to end of config if you are not using xfce
